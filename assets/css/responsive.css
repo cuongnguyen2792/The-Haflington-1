@@ -10,12 +10,17 @@
         padding: 17px 36px;
     }
 
+    #slider .text-content {
+        position: initial;
+    }
+
     .contact-info {
         line-height: 2;
     }
 
     .contact-form .form-control {
         padding: 15px;
+        font-size: 15px;
     }
 
     #footer .social-list a {
